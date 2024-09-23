@@ -1,0 +1,1097 @@
+state,Population,Race,Age,Year
+ Wyoming,7,Hispanic,,2008
+ Washington,3,Black,,2008
+ West Virginia,3,Black,,2008
+ Wisconsin,6,Black,,2008
+ Wyoming,1,Black,,2008
+ Alaska,12,,,2008
+ Arizona,4,,,2008
+ Colorado,1,,,2008
+ Virginia,19,Black,,2008
+ Utah,1,Black,,2008
+ Texas,11,Black,,2008
+ Nevada,7,Black,,2008
+ New Hampshire,1,Black,,2008
+ New Jersey,13,Black,,2008
+ New Mexico,2,Black,,2008
+ New York,15,Black,,2008
+ North Carolina,21,Black,,2008
+ North Dakota,1,Black,,2008
+ Ohio,12,Black,,2008
+ Oregon,1,Black,,2008
+ Pennsylvania,10,Black,,2008
+ Puerto Rico,7,Black,,2008
+ Rhode Island,5,Black,,2008
+ South Carolina,28,Black,,2008
+ Tennessee,17,Black,,2008
+ Oklahoma,7,Black,,2008
+ Nebraska,3,Black,,2008
+ Idaho,1,,,2008
+ Oklahoma,6,,,2008
+ Oregon,1,,,2008
+ South Dakota,8,,,2008
+ Utah,1,,,2008
+ Washington,1,,,2008
+ North Dakota,5,,,2008
+ North Carolina,1,,,2008
+ New Mexico,9,,,2008
+ Montana,6,,,2008
+ Nevada,1,,,2008
+ Minnesota,1,,,2008
+ Wyoming,2,,,2008
+ Mississippi,38,Black,,2008
+ Michigan,78,White,,2008
+ Minnesota,87,White,,2008
+ Mississippi,59,White,,2008
+ Missouri,83,White,,2008
+ Montana,89,White,,2008
+ Nebraska,89,White,,2008
+ Nevada,77,White,,2008
+ New Hampshire,94,White,,2008
+ New Jersey,70,White,,2008
+ New Mexico,73,White,,2008
+ New York,67,White,,2008
+ North Carolina,70,White,,2008
+ North Dakota,91,White,,2008
+ Ohio,83,White,,2008
+ Oklahoma,75,White,,2008
+ Massachusetts,82,White,,2008
+ Maryland,60,White,,2008
+ Maine,95,White,,2008
+ Louisiana,62,White,,2008
+ Arizona,80,White,,2008
+ Arkansas,78,White,,2008
+ California,62,White,,2008
+ Colorado,84,White,,2008
+ Connecticut,80,White,,2008
+ Delaware,72,White,,2008
+ District of Columbia,37,White,,2008
+ Oregon,86,White,,2008
+ Florida,76,White,,2008
+ Hawaii,27,White,,2008
+ Idaho,92,White,,2008
+ Illinois,71,White,,2008
+ Indiana,85,White,,2008
+ Iowa,92,White,,2008
+ Kansas,86,White,,2008
+ Kentucky,89,White,,2008
+ Georgia,61,White,,2008
+ Missouri,11,Black,,2008
+ Pennsylvania,83,White,,2008
+ Rhode Island,83,White,,2008
+ Florida,16,Black,,2008
+ Georgia,31,Black,,2008
+ Hawaii,2,Black,,2008
+ Illinois,15,Black,,2008
+ Indiana,8,Black,,2008
+ Iowa,2,Black,,2008
+ Kansas,5,Black,,2008
+ Kentucky,7,Black,,2008
+ Louisiana,33,Black,,2008
+ Maine,1,Black,,2008
+ Maryland,29,Black,,2008
+ Massachusetts,6,Black,,2008
+ Michigan,15,Black,,2008
+ Minnesota,4,Black,,2008
+ District of Columbia,53,Black,,2008
+ Delaware,20,Black,,2008
+ Connecticut,9,Black,,2008
+ Colorado,3,Black,,2008
+ South Carolina,67,White,,2008
+ South Dakota,87,White,,2008
+ Tennessee,78,White,,2008
+ Texas,73,White,,2008
+ Utah,91,White,,2008
+ Vermont,95,White,,2008
+ Virginia,70,White,,2008
+ Puerto Rico,75,White,,2008
+ Washington,80,White,,2008
+ Wisconsin,88,White,,2008
+ Wyoming,91,White,,2008
+ Alabama,27,Black,,2008
+ Alaska,3,Black,,2008
+ Arizona,3,Black,,2008
+ Arkansas,16,Black,,2008
+ California,6,Black,,2008
+ West Virginia,94,White,,2008
+ Alaska,69,White,,2008
+ Alabama,1,Asian,,2008
+ Arizona,2,Asian,,2008
+ Alabama,2,Hispanic,,2008
+ Alaska,6,Hispanic,,2008
+ Arizona,30,Hispanic,,2008
+ Arkansas,5,Hispanic,,2008
+ California,36,Hispanic,,2008
+ Colorado,20,Hispanic,,2008
+ Connecticut,12,Hispanic,,2008
+ Delaware,6,Hispanic,,2008
+ District of Columbia,8,Hispanic,,2008
+ Florida,21,Hispanic,,2008
+ Georgia,7,Hispanic,,2008
+ Hawaii,8,Hispanic,,2008
+ Idaho,10,Hispanic,,2008
+ Illinois,15,Hispanic,,2008
+ Iowa,4,Hispanic,,2008
+ Oklahoma,7,Hispanic,,2008
+ Oregon,10,Hispanic,,2008
+ Pennsylvania,4,Hispanic,,2008
+ Puerto Rico,99,Hispanic,,2008
+ Rhode Island,11,Hispanic,,2008
+ South Carolina,4,Hispanic,,2008
+ South Dakota,2,Hispanic,,2008
+ Tennessee,3,Hispanic,,2008
+ Texas,37,Hispanic,,2008
+ Utah,11,Hispanic,,2008
+ Vermont,1,Hispanic,,2008
+ Virginia,6,Hispanic,,2008
+ Washington,9,Hispanic,,2008
+ West Virginia,1,Hispanic,,2008
+ Wisconsin,5,Hispanic,,2008
+ Ohio,2,Hispanic,,2008
+ North Dakota,2,Hispanic,,2008
+ North Carolina,7,Hispanic,,2008
+ New York,16,Hispanic,,2008
+ Kansas,9,Hispanic,,2008
+ Kentucky,2,Hispanic,,2008
+ Louisiana,3,Hispanic,,2008
+ Maine,1,Hispanic,,2008
+ Maryland,6,Hispanic,,2008
+ Massachusetts,8,Hispanic,,2008
+ Michigan,4,Hispanic,,2008
+ Indiana,5,Hispanic,,2008
+ Minnesota,4,Hispanic,,2008
+ Missouri,3,Hispanic,,2008
+ Montana,2,Hispanic,,2008
+ Nebraska,7,Hispanic,,2008
+ Nevada,25,Hispanic,,2008
+ New Hampshire,2,Hispanic,,2008
+ New Jersey,16,Hispanic,,2008
+ New Mexico,44,Hispanic,,2008
+ Mississippi,2,Hispanic,,2008
+ Alaska,4,Asian,,2008
+ Minnesota,3,Asian,,2008
+ Missouri,1,Asian,,2008
+ Nebraska,1,Asian,,2008
+ Nevada,5,Asian,,2008
+ New Hampshire,2,Asian,,2008
+ New Jersey,7,Asian,,2008
+ New Mexico,1,Asian,,2008
+ New York,6,Asian,,2008
+ North Carolina,1,Asian,,2008
+ Ohio,1,Asian,,2008
+ Oklahoma,1,Asian,,2008
+ Oregon,3,Asian,,2008
+ Michigan,2,Asian,,2008
+ Massachusetts,5,Asian,,2008
+ Maryland,5,Asian,,2008
+ Arkansas,1,Asian,,2008
+ California,12,Asian,,2008
+ Colorado,2,Asian,,2008
+ Connecticut,3,Asian,,2008
+ Delaware,2,Asian,,2008
+ District of Columbia,3,Asian,,2008
+ Florida,2,Asian,,2008
+ Pennsylvania,2,Asian,,2008
+ Georgia,2,Asian,,2008
+ Idaho,1,Asian,,2008
+ Illinois,4,Asian,,2008
+ Indiana,1,Asian,,2008
+ Iowa,1,Asian,,2008
+ Kansas,2,Asian,,2008
+ Kentucky,1,Asian,,2008
+ Louisiana,1,Asian,,2008
+ Hawaii,38,Asian,,2008
+ South Carolina,1,Asian,,2008
+ Hawaii,9,,,2008
+ Tennessee,1,Asian,,2008
+ Texas,3,Asian,,2008
+ Utah,2,Asian,,2008
+ Vermont,1,Asian,,2008
+ Virginia,4,Asian,,2008
+ Washington,6,Asian,,2008
+ Rhode Island,2,Asian,,2008
+ Wisconsin,2,Asian,,2008
+ Alabama,69,White,,2008
+ West Virginia,1,Hispanic,,2016
+ Vermont,1,Black,,2016
+ Virginia,19,Black,,2016
+ Washington,3,Black,,2016
+ West Virginia,3,Black,,2016
+ Wisconsin,6,Black,,2016
+ Wyoming,1,Black,,2016
+ Alaska,14,,,2016
+ Arizona,4,,,2016
+ Colorado,1,,,2016
+ Utah,1,Black,,2016
+ Texas,12,Black,,2016
+ Tennessee,17,Black,,2016
+ South Dakota,1,Black,,2016
+ Nebraska,4,Black,,2016
+ Nevada,8,Black,,2016
+ New Hampshire,1,Black,,2016
+ New Jersey,13,Black,,2016
+ New Mexico,2,Black,,2016
+ New York,15,Black,,2016
+ North Carolina,21,Black,,2016
+ Ohio,12,Black,,2016
+ Oklahoma,7,Black,,2016
+ Oregon,1,Black,,2016
+ Pennsylvania,10,Black,,2016
+ Puerto Rico,11,Black,,2016
+ Rhode Island,6,Black,,2016
+ South Carolina,27,Black,,2016
+ North Dakota,2,Black,,2016
+ Missouri,11,Black,,2016
+ Idaho,1,,,2016
+ North Carolina,1,,,2016
+ North Dakota,5,,,2016
+ Oklahoma,7,,,2016
+ Oregon,1,,,2016
+ South Dakota,8,,,2016
+ Utah,1,,,2016
+ New Mexico,9,,,2016
+ Minnesota,1,,,2016
+ Montana,6,,,2016
+ Nevada,1,,,2016
+ Washington,1,,,2016
+ Mississippi,38,Black,,2016
+ Michigan,14,Black,,2016
+ Maryland,56,White,,2016
+ Massachusetts,78,White,,2016
+ Michigan,78,White,,2016
+ Minnesota,83,White,,2016
+ Mississippi,58,White,,2016
+ Missouri,82,White,,2016
+ Montana,89,White,,2016
+ Nebraska,88,White,,2016
+ Nevada,66,White,,2016
+ New Hampshire,93,White,,2016
+ New Jersey,68,White,,2016
+ New Mexico,74,White,,2016
+ New York,64,White,,2016
+ North Carolina,69,White,,2016
+ North Dakota,87,White,,2016
+ Maine,94,White,,2016
+ Louisiana,62,White,,2016
+ Kentucky,87,White,,2016
+ Kansas,84,White,,2016
+ Alabama,68,White,,2016
+ Alaska,64,White,,2016
+ Arizona,76,White,,2016
+ Arkansas,76,White,,2016
+ California,59,White,,2016
+ Colorado,84,White,,2016
+ Connecticut,76,White,,2016
+ Ohio,81,White,,2016
+ Delaware,69,White,,2016
+ Florida,75,White,,2016
+ Georgia,58,White,,2016
+ Hawaii,25,White,,2016
+ Idaho,89,White,,2016
+ Illinois,71,White,,2016
+ Indiana,83,White,,2016
+ Iowa,90,White,,2016
+ District of Columbia,40,White,,2016
+ Minnesota,5,Black,,2016
+ Oklahoma,72,White,,2016
+ Pennsylvania,81,White,,2016
+ Delaware,22,Black,,2016
+ District of Columbia,47,Black,,2016
+ Florida,16,Black,,2016
+ Georgia,31,Black,,2016
+ Hawaii,1,Black,,2016
+ Illinois,14,Black,,2016
+ Indiana,9,Black,,2016
+ Iowa,3,Black,,2016
+ Kansas,5,Black,,2016
+ Kentucky,8,Black,,2016
+ Louisiana,32,Black,,2016
+ Maine,1,Black,,2016
+ Maryland,29,Black,,2016
+ Massachusetts,7,Black,,2016
+ Connecticut,10,Black,,2016
+ Colorado,4,Black,,2016
+ California,5,Black,,2016
+ Arkansas,15,Black,,2016
+ Puerto Rico,66,White,,2016
+ Rhode Island,80,White,,2016
+ South Carolina,67,White,,2016
+ South Dakota,84,White,,2016
+ Tennessee,77,White,,2016
+ Texas,74,White,,2016
+ Utah,86,White,,2016
+ Oregon,84,White,,2016
+ Vermont,94,White,,2016
+ Washington,75,White,,2016
+ West Virginia,93,White,,2016
+ Wisconsin,85,White,,2016
+ Wyoming,92,White,,2016
+ Alabama,27,Black,,2016
+ Alaska,3,Black,,2016
+ Arizona,4,Black,,2016
+ Virginia,68,White,,2016
+ Washington,12,Hispanic,,2016
+ Alabama,4,Hispanic,,2016
+ Alaska,6,Hispanic,,2016
+ Arizona,30,Hispanic,,2016
+ Arkansas,7,Hispanic,,2016
+ California,39,Hispanic,,2016
+ Colorado,21,Hispanic,,2016
+ Connecticut,15,Hispanic,,2016
+ Delaware,9,Hispanic,,2016
+ District of Columbia,10,Hispanic,,2016
+ Florida,24,Hispanic,,2016
+ Georgia,9,Hispanic,,2016
+ Idaho,12,Hispanic,,2016
+ North Carolina,9,Hispanic,,2016
+ North Dakota,3,Hispanic,,2016
+ Ohio,3,Hispanic,,2016
+ Oklahoma,10,Hispanic,,2016
+ Oregon,12,Hispanic,,2016
+ Pennsylvania,7,Hispanic,,2016
+ Puerto Rico,98,Hispanic,,2016
+ Rhode Island,14,Hispanic,,2016
+ South Carolina,5,Hispanic,,2016
+ South Dakota,3,Hispanic,,2016
+ Tennessee,5,Hispanic,,2016
+ Texas,39,Hispanic,,2016
+ Utah,13,Hispanic,,2016
+ Vermont,2,Hispanic,,2016
+ Virginia,8,Hispanic,,2016
+ New York,18,Hispanic,,2016
+ New Mexico,48,Hispanic,,2016
+ New Jersey,19,Hispanic,,2016
+ New Hampshire,3,Hispanic,,2016
+ Illinois,17,Hispanic,,2016
+ Indiana,6,Hispanic,,2016
+ Iowa,5,Hispanic,,2016
+ Kansas,11,Hispanic,,2016
+ Kentucky,3,Hispanic,,2016
+ Louisiana,4,Hispanic,,2016
+ Maine,1,Hispanic,,2016
+ Hawaii,10,Hispanic,,2016
+ Maryland,9,Hispanic,,2016
+ Michigan,5,Hispanic,,2016
+ Minnesota,5,Hispanic,,2016
+ Mississippi,2,Hispanic,,2016
+ Missouri,4,Hispanic,,2016
+ Montana,3,Hispanic,,2016
+ Nebraska,10,Hispanic,,2016
+ Nevada,28,Hispanic,,2016
+ Massachusetts,11,Hispanic,,2016
+ Maine,1,Asian,,2016
+ Maryland,6,Asian,,2016
+ Massachusetts,6,Asian,,2016
+ Michigan,2,Asian,,2016
+ Minnesota,4,Asian,,2016
+ Missouri,1,Asian,,2016
+ Nebraska,2,Asian,,2016
+ Nevada,8,Asian,,2016
+ New Hampshire,2,Asian,,2016
+ New Jersey,9,Asian,,2016
+ New Mexico,1,Asian,,2016
+ New York,8,Asian,,2016
+ North Carolina,2,Asian,,2016
+ Louisiana,1,Asian,,2016
+ Kentucky,1,Asian,,2016
+ Kansas,2,Asian,,2016
+ Iowa,2,Asian,,2016
+ Wyoming,2,,,2016
+ Alabama,1,Asian,,2016
+ Alaska,6,Asian,,2016
+ Arizona,3,Asian,,2016
+ Arkansas,1,Asian,,2016
+ California,14,Asian,,2016
+ Colorado,3,Asian,,2016
+ North Dakota,1,Asian,,2016
+ Connecticut,4,Asian,,2016
+ District of Columbia,3,Asian,,2016
+ Florida,2,Asian,,2016
+ Georgia,3,Asian,,2016
+ Hawaii,38,Asian,,2016
+ Idaho,1,Asian,,2016
+ Illinois,5,Asian,,2016
+ Indiana,2,Asian,,2016
+ Delaware,3,Asian,,2016
+ Ohio,2,Asian,,2016
+ Oklahoma,2,Asian,,2016
+ Oregon,4,Asian,,2016
+ Hawaii,10,,,2016
+ Wyoming,9,Hispanic,,2016
+ Pennsylvania,3,Asian,,2016
+ Rhode Island,3,Asian,,2016
+ South Carolina,1,Asian,,2016
+ South Dakota,1,Asian,,2016
+ Tennessee,1,Asian,,2016
+ Texas,4,Asian,,2016
+ Utah,2,Asian,,2016
+ Virginia,6,Asian,,2016
+ Washington,8,Asian,,2016
+ Wisconsin,2,Asian,,2016
+ Wyoming,1,Asian,,2016
+ Alaska,1,,,2016
+ Vermont,1,Asian,,2016
+ Wisconsin,6,Hispanic,,2016
+ Alabama,63,White,,2020
+ Virginia,10,Hispanic,,2020
+ Vermont,1,Black,,2020
+ Virginia,18,Black,,2020
+ Washington,4,Black,,2020
+ West Virginia,3,Black,,2020
+ Wisconsin,6,Black,,2020
+ Alaska,15,,,2020
+ Arizona,4,,,2020
+ California,1,,,2020
+ Colorado,1,,,2020
+ Utah,1,Black,,2020
+ Texas,12,Black,,2020
+ South Dakota,2,Black,,2020
+ Nebraska,4,Black,,2020
+ Nevada,9,Black,,2020
+ New Hampshire,1,Black,,2020
+ New Jersey,13,Black,,2020
+ New Mexico,2,Black,,2020
+ New York,14,Black,,2020
+ North Carolina,20,Black,,2020
+ North Dakota,3,Black,,2020
+ Ohio,12,Black,,2020
+ Oklahoma,7,Black,,2020
+ Oregon,1,Black,,2020
+ Pennsylvania,10,Black,,2020
+ Puerto Rico,7,Black,,2020
+ Rhode Island,5,Black,,2020
+ South Carolina,25,Black,,2020
+ Tennessee,16,Black,,2020
+ Idaho,1,,,2020
+ North Carolina,1,,,2020
+ North Dakota,5,,,2020
+ Oklahoma,8,,,2020
+ Oregon,1,,,2020
+ South Dakota,8,,,2020
+ Texas,1,,,2020
+ Utah,1,,,2020
+ New Mexico,10,,,2020
+ Kansas,1,,,2020
+ Minnesota,1,,,2020
+ Montana,6,,,2020
+ Nebraska,1,,,2020
+ Nevada,1,,,2020
+ Missouri,11,Black,,2020
+ Mississippi,37,Black,,2020
+ Minnesota,6,Black,,2020
+ Massachusetts,69,White,,2020
+ Michigan,73,White,,2020
+ Minnesota,77,White,,2020
+ Mississippi,55,White,,2020
+ Missouri,76,White,,2020
+ Montana,84,White,,2020
+ Nebraska,78,White,,2020
+ Nevada,50,White,,2020
+ New Hampshire,88,White,,2020
+ New Jersey,55,White,,2020
+ New Mexico,51,White,,2020
+ New York,55,White,,2020
+ North Carolina,62,White,,2020
+ North Dakota,82,White,,2020
+ Ohio,77,White,,2020
+ Maryland,48,White,,2020
+ Maine,90,White,,2020
+ Louisiana,56,White,,2020
+ Kentucky,82,White,,2020
+ Alaska,59,White,,2020
+ Arizona,60,White,,2020
+ Arkansas,70,White,,2020
+ California,41,White,,2020
+ Colorado,70,White,,2020
+ Connecticut,66,White,,2020
+ Delaware,60,White,,2020
+ Oklahoma,63,White,,2020
+ District of Columbia,39,White,,2020
+ Georgia,52,White,,2020
+ Hawaii,22,White,,2020
+ Idaho,82,White,,2020
+ Illinois,61,White,,2020
+ Indiana,77,White,,2020
+ Iowa,84,White,,2020
+ Kansas,75,White,,2020
+ Florida,57,White,,2020
+ Washington,1,,,2020
+ Oregon,74,White,,2020
+ Puerto Rico,17,White,,2020
+ District of Columbia,41,Black,,2020
+ Florida,15,Black,,2020
+ Georgia,31,Black,,2020
+ Hawaii,1,Black,,2020
+ Illinois,14,Black,,2020
+ Indiana,9,Black,,2020
+ Iowa,4,Black,,2020
+ Kansas,5,Black,,2020
+ Kentucky,8,Black,,2020
+ Louisiana,31,Black,,2020
+ Maine,1,Black,,2020
+ Maryland,29,Black,,2020
+ Massachusetts,7,Black,,2020
+ Michigan,14,Black,,2020
+ Delaware,22,Black,,2020
+ Connecticut,10,Black,,2020
+ Colorado,4,Black,,2020
+ California,5,Black,,2020
+ Rhode Island,71,White,,2020
+ South Carolina,62,White,,2020
+ South Dakota,80,White,,2020
+ Tennessee,71,White,,2020
+ Texas,49,White,,2020
+ Utah,78,White,,2020
+ Vermont,89,White,,2020
+ Pennsylvania,75,White,,2020
+ Virginia,60,White,,2020
+ West Virginia,89,White,,2020
+ Wisconsin,80,White,,2020
+ Wyoming,84,White,,2020
+ Alabama,26,Black,,2020
+ Alaska,3,Black,,2020
+ Arizona,4,Black,,2020
+ Arkansas,15,Black,,2020
+ Washington,66,White,,2020
+ Washington,13,Hispanic,,2020
+ Wyoming,2,,,2020
+ Alabama,5,Hispanic,,2020
+ Alaska,6,Hispanic,,2020
+ Arizona,30,Hispanic,,2020
+ Arkansas,8,Hispanic,,2020
+ California,39,Hispanic,,2020
+ Colorado,21,Hispanic,,2020
+ Connecticut,17,Hispanic,,2020
+ Delaware,10,Hispanic,,2020
+ District of Columbia,11,Hispanic,,2020
+ Florida,26,Hispanic,,2020
+ Georgia,10,Hispanic,,2020
+ Hawaii,9,Hispanic,,2020
+ New York,19,Hispanic,,2020
+ North Carolina,10,Hispanic,,2020
+ North Dakota,4,Hispanic,,2020
+ Ohio,4,Hispanic,,2020
+ Oklahoma,11,Hispanic,,2020
+ Oregon,13,Hispanic,,2020
+ Pennsylvania,8,Hispanic,,2020
+ Puerto Rico,98,Hispanic,,2020
+ Rhode Island,16,Hispanic,,2020
+ South Carolina,6,Hispanic,,2020
+ South Dakota,4,Hispanic,,2020
+ Tennessee,6,Hispanic,,2020
+ Texas,40,Hispanic,,2020
+ Utah,15,Hispanic,,2020
+ Vermont,2,Hispanic,,2020
+ New Mexico,47,Hispanic,,2020
+ New Jersey,21,Hispanic,,2020
+ New Hampshire,4,Hispanic,,2020
+ Nevada,29,Hispanic,,2020
+ Idaho,13,Hispanic,,2020
+ Illinois,18,Hispanic,,2020
+ Indiana,8,Hispanic,,2020
+ Iowa,6,Hispanic,,2020
+ Kansas,13,Hispanic,,2020
+ Kentucky,4,Hispanic,,2020
+ Louisiana,6,Hispanic,,2020
+ Maine,2,Hispanic,,2020
+ Massachusetts,12,Hispanic,,2020
+ Michigan,5,Hispanic,,2020
+ Minnesota,6,Hispanic,,2020
+ Mississippi,3,Hispanic,,2020
+ Missouri,4,Hispanic,,2020
+ Montana,4,Hispanic,,2020
+ Nebraska,12,Hispanic,,2020
+ Maryland,11,Hispanic,,2020
+ Maryland,6,Asian,,2020
+ Massachusetts,7,Asian,,2020
+ Michigan,3,Asian,,2020
+ Minnesota,5,Asian,,2020
+ Mississippi,1,Asian,,2020
+ Missouri,2,Asian,,2020
+ Nebraska,2,Asian,,2020
+ Nevada,8,Asian,,2020
+ New Hampshire,2,Asian,,2020
+ New Jersey,10,Asian,,2020
+ New Mexico,1,Asian,,2020
+ New York,9,Asian,,2020
+ North Carolina,3,Asian,,2020
+ North Dakota,1,Asian,,2020
+ Maine,1,Asian,,2020
+ Louisiana,1,Asian,,2020
+ Kentucky,1,Asian,,2020
+ Kansas,2,Asian,,2020
+ Alabama,1,Asian,,2020
+ Alaska,6,Asian,,2020
+ Arizona,3,Asian,,2020
+ Arkansas,1,Asian,,2020
+ California,15,Asian,,2020
+ Colorado,3,Asian,,2020
+ Connecticut,4,Asian,,2020
+ Ohio,2,Asian,,2020
+ Delaware,4,Asian,,2020
+ Florida,3,Asian,,2020
+ Georgia,4,Asian,,2020
+ Hawaii,37,Asian,,2020
+ Idaho,1,Asian,,2020
+ Illinois,5,Asian,,2020
+ Indiana,2,Asian,,2020
+ Iowa,2,Asian,,2020
+ District of Columbia,4,Asian,,2020
+ Wisconsin,1,,,2020
+ Oklahoma,2,Asian,,2020
+ Pennsylvania,3,Asian,,2020
+ Hawaii,10,,,2020
+ Rhode Island,3,Asian,,2020
+ South Carolina,1,Asian,,2020
+ South Dakota,1,Asian,,2020
+ Tennessee,1,Asian,,2020
+ Texas,5,Asian,,2020
+ Utah,2,Asian,,2020
+ Oregon,4,Asian,,2020
+ Vermont,1,Asian,,2020
+ Washington,9,Asian,,2020
+ Wisconsin,3,Asian,,2020
+ Alaska,1,,,2020
+ Virginia,6,Asian,,2020
+ West Virginia,1,Hispanic,,2020
+ Wyoming,10,Hispanic,,2020
+ Wisconsin,7,Hispanic,,2020
+ Washington,4,Black,,2022
+ West Virginia,3,Black,,2022
+ Wisconsin,6,Black,,2022
+ Alaska,13,,,2022
+ Arizona,4,,,2022
+ California,1,,,2022
+ Colorado,1,,,2022
+ Virginia,18,Black,,2022
+ Vermont,1,Black,,2022
+ Utah,1,Black,,2022
+ Texas,12,Black,,2022
+ Nevada,9,Black,,2022
+ New Hampshire,1,Black,,2022
+ New Jersey,12,Black,,2022
+ New Mexico,2,Black,,2022
+ New York,14,Black,,2022
+ North Carolina,20,Black,,2022
+ North Dakota,3,Black,,2022
+ Ohio,12,Black,,2022
+ Oregon,2,Black,,2022
+ Pennsylvania,10,Black,,2022
+ Puerto Rico,5,Black,,2022
+ Rhode Island,5,Black,,2022
+ South Carolina,25,Black,,2022
+ South Dakota,2,Black,,2022
+ Tennessee,15,Black,,2022
+ Oklahoma,6,Black,,2022
+ Nebraska,4,Black,,2022
+ Idaho,1,,,2022
+ Oklahoma,7,,,2022
+ Oregon,1,,,2022
+ South Dakota,7,,,2022
+ Utah,1,,,2022
+ Washington,1,,,2022
+ North Dakota,4,,,2022
+ North Carolina,1,,,2022
+ New Mexico,9,,,2022
+ Montana,5,,,2022
+ Nebraska,1,,,2022
+ Nevada,1,,,2022
+ Minnesota,1,,,2022
+ Wyoming,10,Hispanic,,2022
+ Mississippi,37,Black,,2022
+ Massachusetts,68,White,,2022
+ Michigan,73,White,,2022
+ Minnesota,77,White,,2022
+ Mississippi,55,White,,2022
+ Missouri,77,White,,2022
+ Montana,85,White,,2022
+ Nebraska,78,White,,2022
+ Nevada,49,White,,2022
+ New Hampshire,87,White,,2022
+ New Jersey,53,White,,2022
+ New Mexico,46,White,,2022
+ New York,54,White,,2022
+ North Carolina,62,White,,2022
+ North Dakota,83,White,,2022
+ Ohio,77,White,,2022
+ Maryland,48,White,,2022
+ Maine,90,White,,2022
+ Louisiana,57,White,,2022
+ Kentucky,83,White,,2022
+ Alaska,59,White,,2022
+ Arizona,57,White,,2022
+ Arkansas,69,White,,2022
+ California,38,White,,2022
+ Colorado,70,White,,2022
+ Connecticut,65,White,,2022
+ Delaware,59,White,,2022
+ Oklahoma,65,White,,2022
+ District of Columbia,38,White,,2022
+ Georgia,51,White,,2022
+ Hawaii,22,White,,2022
+ Idaho,81,White,,2022
+ Illinois,60,White,,2022
+ Indiana,77,White,,2022
+ Iowa,84,White,,2022
+ Kansas,76,White,,2022
+ Florida,55,White,,2022
+ Oregon,74,White,,2022
+ Pennsylvania,74,White,,2022
+ Puerto Rico,26,White,,2022
+ District of Columbia,42,Black,,2022
+ Florida,15,Black,,2022
+ Georgia,31,Black,,2022
+ Hawaii,1,Black,,2022
+ Illinois,13,Black,,2022
+ Indiana,9,Black,,2022
+ Delaware,22,Black,,2022
+ Iowa,3,Black,,2022
+ Kentucky,7,Black,,2022
+ Louisiana,31,Black,,2022
+ Maine,1,Black,,2022
+ Maryland,29,Black,,2022
+ Massachusetts,7,Black,,2022
+ Michigan,13,Black,,2022
+ Minnesota,7,Black,,2022
+ Kansas,5,Black,,2022
+ Connecticut,10,Black,,2022
+ California,5,Black,,2022
+ Rhode Island,70,White,,2022
+ South Carolina,63,White,,2022
+ South Dakota,80,White,,2022
+ Tennessee,72,White,,2022
+ Texas,47,White,,2022
+ Utah,79,White,,2022
+ Vermont,90,White,,2022
+ Colorado,4,Black,,2022
+ Virginia,60,White,,2022
+ West Virginia,90,White,,2022
+ Wisconsin,80,White,,2022
+ Wyoming,84,White,,2022
+ Alabama,25,Black,,2022
+ Alaska,3,Black,,2022
+ Arizona,4,Black,,2022
+ Arkansas,14,Black,,2022
+ Washington,65,White,,2022
+ Missouri,10,Black,,2022
+ Wyoming,1,,,2022
+ Alaska,6,Asian,,2022
+ Alabama,4,Hispanic,,2022
+ Alaska,7,Hispanic,,2022
+ Arizona,32,Hispanic,,2022
+ Arkansas,8,Hispanic,,2022
+ California,40,Hispanic,,2022
+ Colorado,22,Hispanic,,2022
+ Connecticut,18,Hispanic,,2022
+ Delaware,10,Hispanic,,2022
+ District of Columbia,11,Hispanic,,2022
+ Florida,27,Hispanic,,2022
+ Georgia,10,Hispanic,,2022
+ Hawaii,11,Hispanic,,2022
+ Idaho,13,Hispanic,,2022
+ Illinois,18,Hispanic,,2022
+ Iowa,6,Hispanic,,2022
+ Oklahoma,12,Hispanic,,2022
+ Oregon,14,Hispanic,,2022
+ Pennsylvania,8,Hispanic,,2022
+ Puerto Rico,99,Hispanic,,2022
+ Rhode Island,17,Hispanic,,2022
+ South Carolina,6,Hispanic,,2022
+ South Dakota,4,Hispanic,,2022
+ Tennessee,6,Hispanic,,2022
+ Texas,40,Hispanic,,2022
+ Utah,15,Hispanic,,2022
+ Vermont,2,Hispanic,,2022
+ Virginia,10,Hispanic,,2022
+ Washington,14,Hispanic,,2022
+ West Virginia,1,Hispanic,,2022
+ Wisconsin,7,Hispanic,,2022
+ Ohio,4,Hispanic,,2022
+ North Dakota,4,Hispanic,,2022
+ North Carolina,10,Hispanic,,2022
+ New York,19,Hispanic,,2022
+ Kansas,13,Hispanic,,2022
+ Kentucky,4,Hispanic,,2022
+ Louisiana,5,Hispanic,,2022
+ Maine,2,Hispanic,,2022
+ Maryland,11,Hispanic,,2022
+ Massachusetts,13,Hispanic,,2022
+ Michigan,5,Hispanic,,2022
+ Indiana,7,Hispanic,,2022
+ Minnesota,5,Hispanic,,2022
+ Missouri,4,Hispanic,,2022
+ Montana,4,Hispanic,,2022
+ Nebraska,12,Hispanic,,2022
+ Nevada,30,Hispanic,,2022
+ New Hampshire,4,Hispanic,,2022
+ New Jersey,22,Hispanic,,2022
+ New Mexico,50,Hispanic,,2022
+ Mississippi,3,Hispanic,,2022
+ Michigan,3,Asian,,2022
+ Minnesota,5,Asian,,2022
+ Missouri,2,Asian,,2022
+ Nebraska,2,Asian,,2022
+ Nevada,9,Asian,,2022
+ New Hampshire,2,Asian,,2022
+ New Jersey,10,Asian,,2022
+ New Mexico,1,Asian,,2022
+ New York,9,Asian,,2022
+ North Carolina,3,Asian,,2022
+ North Dakota,1,Asian,,2022
+ Ohio,2,Asian,,2022
+ Oklahoma,2,Asian,,2022
+ Massachusetts,7,Asian,,2022
+ Maryland,6,Asian,,2022
+ Maine,1,Asian,,2022
+ Louisiana,1,Asian,,2022
+ Arizona,3,Asian,,2022
+ Arkansas,1,Asian,,2022
+ California,15,Asian,,2022
+ Colorado,3,Asian,,2022
+ Connecticut,4,Asian,,2022
+ Delaware,4,Asian,,2022
+ District of Columbia,4,Asian,,2022
+ Oregon,4,Asian,,2022
+ Florida,2,Asian,,2022
+ Hawaii,35,Asian,,2022
+ Idaho,1,Asian,,2022
+ Illinois,6,Asian,,2022
+ Indiana,2,Asian,,2022
+ Iowa,2,Asian,,2022
+ Kansas,2,Asian,,2022
+ Kentucky,1,Asian,,2022
+ Georgia,4,Asian,,2022
+ Pennsylvania,3,Asian,,2022
+ Rhode Island,3,Asian,,2022
+ Hawaii,10,,,2022
+ Alabama,1,Asian,,2022
+ South Carolina,1,Asian,,2022
+ South Dakota,1,Asian,,2022
+ Tennessee,1,Asian,,2022
+ Texas,5,Asian,,2022
+ Utah,2,Asian,,2022
+ Vermont,1,Asian,,2022
+ Virginia,7,Asian,,2022
+ Washington,9,Asian,,2022
+ Wisconsin,2,Asian,,2022
+ Alaska,2,,,2022
+ Alabama,65,White,,2022
+ Alabama,69,White,,
+ Alaska,66,White,,
+ Arizona,78,White,,
+ Arkansas,78,White,,
+ California,62,White,,
+ Colorado,84,White,,
+ Connecticut,78,White,,
+ Delaware,69,White,,
+ District of Columbia,39,White,,
+ Florida,76,White,,
+ Georgia,60,White,,
+ Hawaii,24,White,,
+ Idaho,91,White,,
+ Illinois,72,White,,
+ Indiana,84,White,,
+ Iowa,91,White,,
+ Kansas,85,White,,
+ Kentucky,87,White,,
+ Louisiana,62,White,,
+ Maine,95,White,,
+ Maryland,58,White,,
+ Massachusetts,80,White,,
+ Michigan,79,White,,
+ Minnesota,85,White,,
+ Mississippi,59,White,,
+ Missouri,82,White,,
+ Montana,89,White,,
+ Nebraska,88,White,,
+ Nevada,69,White,,
+ New Hampshire,94,White,,
+ New Jersey,68,White,,
+ New Mexico,71,White,,
+ New York,65,White,,
+ North Carolina,70,White,,
+ North Dakota,89,White,,
+ Ohio,82,White,,
+ Oklahoma,73,White,,
+ Oregon,85,White,,
+ Pennsylvania,82,White,,
+ Puerto Rico,69,White,,
+ Rhode Island,81,White,,
+ South Carolina,67,White,,
+ South Dakota,85,White,,
+ Tennessee,78,White,,
+ Texas,75,White,,
+ Utah,88,White,,
+ Vermont,95,White,,
+ Virginia,69,White,,
+ Washington,78,White,,
+ West Virginia,93,White,,
+ Wisconsin,86,White,,
+ Wyoming,90,White,,
+ Alabama,26,Black,,
+ Alaska,3,Black,,
+ Arizona,4,Black,,
+ Arkansas,15,Black,,
+ California,5,Black,,
+ Colorado,4,Black,,
+ Connecticut,10,Black,,
+ Delaware,21,Black,,
+ District of Columbia,49,Black,,
+ Florida,16,Black,,
+ Georgia,30,Black,,
+ Hawaii,1,Black,,
+ Illinois,14,Black,,
+ Indiana,9,Black,,
+ Iowa,3,Black,,
+ Kansas,5,Black,,
+ Kentucky,7,Black,,
+ Louisiana,32,Black,,
+ Maine,1,Black,,
+ Maryland,29,Black,,
+ Massachusetts,7,Black,,
+ Michigan,14,Black,,
+ Minnesota,5,Black,,
+ Mississippi,37,Black,,
+ Missouri,11,Black,,
+ Nebraska,4,Black,,
+ Nevada,8,Black,,
+ New Hampshire,1,Black,,
+ New Jersey,13,Black,,
+ New Mexico,2,Black,,
+ New York,15,Black,,
+ North Carolina,21,Black,,
+ North Dakota,1,Black,,
+ Ohio,12,Black,,
+ Oklahoma,7,Black,,
+ Oregon,1,Black,,
+ Pennsylvania,10,Black,,
+ Puerto Rico,8,Black,,
+ Rhode Island,6,Black,,
+ South Carolina,27,Black,,
+ South Dakota,1,Black,,
+ Tennessee,16,Black,,
+ Texas,11,Black,,
+ Utah,1,Black,,
+ Vermont,1,Black,,
+ Virginia,19,Black,,
+ Washington,3,Black,,
+ West Virginia,3,Black,,
+ Wisconsin,6,Black,,
+ Wyoming,1,Black,,
+ Alaska,14,,,
+ Arizona,4,,,
+ Idaho,1,,,
+ Minnesota,1,,,
+ Montana,6,,,
+ Nevada,1,,,
+ New Mexico,9,,,
+ North Carolina,1,,,
+ North Dakota,5,,,
+ Oklahoma,7,,,
+ Oregon,1,,,
+ South Dakota,8,,,
+ Utah,1,,,
+ Washington,1,,,
+ Wyoming,2,,,
+ Alabama,1,Asian,,
+ Alaska,5,Asian,,
+ Arizona,2,Asian,,
+ Arkansas,1,Asian,,
+ California,13,Asian,,
+ Colorado,2,Asian,,
+ Connecticut,4,Asian,,
+ Delaware,3,Asian,,
+ District of Columbia,3,Asian,,
+ Florida,2,Asian,,
+ Georgia,3,Asian,,
+ Hawaii,38,Asian,,
+ Idaho,1,Asian,,
+ Illinois,4,Asian,,
+ Indiana,1,Asian,,
+ Iowa,1,Asian,,
+ Kansas,2,Asian,,
+ Kentucky,1,Asian,,
+ Louisiana,1,Asian,,
+ Maine,1,Asian,,
+ Maryland,5,Asian,,
+ Massachusetts,5,Asian,,
+ Michigan,2,Asian,,
+ Minnesota,4,Asian,,
+ Missouri,1,Asian,,
+ Nebraska,2,Asian,,
+ Nevada,7,Asian,,
+ New Hampshire,2,Asian,,
+ New Jersey,8,Asian,,
+ New Mexico,1,Asian,,
+ New York,7,Asian,,
+ North Carolina,2,Asian,,
+ North Dakota,1,Asian,,
+ Ohio,1,Asian,,
+ Oklahoma,1,Asian,,
+ Oregon,3,Asian,,
+ Pennsylvania,2,Asian,,
+ Rhode Island,3,Asian,,
+ South Carolina,1,Asian,,
+ South Dakota,1,Asian,,
+ Tennessee,1,Asian,,
+ Texas,4,Asian,,
+ Utah,2,Asian,,
+ Vermont,1,Asian,,
+ Virginia,5,Asian,,
+ Washington,7,Asian,,
+ Wisconsin,2,Asian,,
+ Wyoming,1,Asian,,
+ Alaska,1,,,
+ Hawaii,10,,,
+ Alabama,3,Hispanic,,
+ Alaska,6,Hispanic,,
+ Arizona,30,Hispanic,,
+ Arkansas,6,Hispanic,,
+ California,38,Hispanic,,
+ Colorado,21,Hispanic,,
+ Connecticut,14,Hispanic,,
+ Delaware,8,Hispanic,,
+ District of Columbia,9,Hispanic,,
+ Florida,23,Hispanic,,
+ Georgia,9,Hispanic,,
+ Hawaii,9,Hispanic,,
+ Idaho,11,Hispanic,,
+ Illinois,16,Hispanic,,
+ Indiana,6,Hispanic,,
+ Iowa,5,Hispanic,,
+ Kansas,10,Hispanic,,
+ Kentucky,3,Hispanic,,
+ Louisiana,4,Hispanic,,
+ Maine,1,Hispanic,,
+ Maryland,8,Hispanic,,
+ Massachusetts,10,Hispanic,,
+ Michigan,4,Hispanic,,
+ Minnesota,4,Hispanic,,
+ Mississippi,2,Hispanic,,
+ Missouri,3,Hispanic,,
+ Montana,3,Hispanic,,
+ Nebraska,9,Hispanic,,
+ Nevada,27,Hispanic,,
+ New Hampshire,3,Hispanic,,
+ New Jersey,18,Hispanic,,
+ New Mexico,47,Hispanic,,
+ New York,18,Hispanic,,
+ North Carolina,8,Hispanic,,
+ North Dakota,2,Hispanic,,
+ Ohio,3,Hispanic,,
+ Oklahoma,9,Hispanic,,
+ Oregon,12,Hispanic,,
+ Pennsylvania,6,Hispanic,,
+ Puerto Rico,99,Hispanic,,
+ Rhode Island,13,Hispanic,,
+ South Carolina,5,Hispanic,,
+ South Dakota,3,Hispanic,,
+ Tennessee,4,Hispanic,,
+ Texas,38,Hispanic,,
+ Utah,13,Hispanic,,
+ Vermont,1,Hispanic,,
+ Virginia,8,Hispanic,,
+ Washington,11,Hispanic,,
+ West Virginia,1,Hispanic,,
+ Wisconsin,6,Hispanic,,
+ Wyoming,9,Hispanic,,

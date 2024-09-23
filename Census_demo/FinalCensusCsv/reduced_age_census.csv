@@ -1,0 +1,261 @@
+state,median_age(years),year
+ Alabama,37,2008
+ Alaska,33,2008
+ Arizona,35,2008
+ Arkansas,37,2008
+ California,34,2008
+ Colorado,35,2008
+ Connecticut,39,2008
+ Delaware,38,2008
+ District of Columbia,34,2008
+ Florida,40,2008
+ Georgia,34,2008
+ Hawaii,38,2008
+ Idaho,34,2008
+ Illinois,36,2008
+ Indiana,36,2008
+ Iowa,38,2008
+ Kansas,36,2008
+ Kentucky,37,2008
+ Louisiana,35,2008
+ Maine,41,2008
+ Maryland,37,2008
+ Massachusetts,38,2008
+ Michigan,38,2008
+ Minnesota,37,2008
+ Mississippi,35,2008
+ Missouri,37,2008
+ Montana,39,2008
+ Nebraska,36,2008
+ Nevada,35,2008
+ New Hampshire,40,2008
+ New Jersey,38,2008
+ New Mexico,36,2008
+ New York,38,2008
+ North Carolina,37,2008
+ North Dakota,37,2008
+ Ohio,38,2008
+ Oklahoma,36,2008
+ Oregon,38,2008
+ Pennsylvania,39,2008
+ Puerto Rico,35,2008
+ Rhode Island,38,2008
+ South Carolina,37,2008
+ South Dakota,37,2008
+ Tennessee,37,2008
+ Texas,33,2008
+ Utah,28,2008
+ Vermont,41,2008
+ Virginia,37,2008
+ Washington,37,2008
+ West Virginia,40,2008
+ Wisconsin,38,2008
+ Wyoming,36,2008
+ Alabama,38,2012
+ Alaska,33,2012
+ Arizona,37,2012
+ Arkansas,37,2012
+ California,35,2012
+ Colorado,36,2012
+ Connecticut,40,2012
+ Delaware,39,2012
+ District of Columbia,33,2012
+ Florida,41,2012
+ Georgia,35,2012
+ Hawaii,38,2012
+ Idaho,35,2012
+ Illinois,37,2012
+ Indiana,37,2012
+ Iowa,38,2012
+ Kansas,36,2012
+ Kentucky,38,2012
+ Louisiana,36,2012
+ Maine,43,2012
+ Maryland,38,2012
+ Massachusetts,39,2012
+ Michigan,39,2012
+ Minnesota,37,2012
+ Mississippi,36,2012
+ Missouri,38,2012
+ Montana,40,2012
+ Nebraska,36,2012
+ Nevada,36,2012
+ New Hampshire,41,2012
+ New Jersey,39,2012
+ New Mexico,36,2012
+ New York,38,2012
+ North Carolina,38,2012
+ North Dakota,36,2012
+ Ohio,39,2012
+ Oklahoma,36,2012
+ Oregon,39,2012
+ Pennsylvania,40,2012
+ Puerto Rico,37,2012
+ Rhode Island,39,2012
+ South Carolina,38,2012
+ South Dakota,36,2012
+ Tennessee,38,2012
+ Texas,33,2012
+ Utah,29,2012
+ Vermont,42,2012
+ Virginia,37,2012
+ Washington,37,2012
+ West Virginia,41,2012
+ Wisconsin,38,2012
+ Wyoming,36,2012
+ Alabama,38,2016
+ Alaska,33,2016
+ Arizona,38,2016
+ Arkansas,38,2016
+ California,36,2016
+ Colorado,36,2016
+ Connecticut,40,2016
+ Delaware,40,2016
+ District of Columbia,33,2016
+ Florida,42,2016
+ Georgia,36,2016
+ Hawaii,38,2016
+ Idaho,36,2016
+ Illinois,38,2016
+ Indiana,37,2016
+ Iowa,38,2016
+ Kansas,36,2016
+ Kentucky,38,2016
+ Louisiana,36,2016
+ Maine,44,2016
+ Maryland,38,2016
+ Massachusetts,39,2016
+ Michigan,39,2016
+ Minnesota,38,2016
+ Mississippi,37,2016
+ Missouri,38,2016
+ Montana,40,2016
+ Nebraska,36,2016
+ Nevada,37,2016
+ New Hampshire,42,2016
+ New Jersey,39,2016
+ New Mexico,37,2016
+ New York,38,2016
+ North Carolina,39,2016
+ North Dakota,35,2016
+ Ohio,39,2016
+ Oklahoma,36,2016
+ Oregon,39,2016
+ Pennsylvania,40,2016
+ Puerto Rico,40,2016
+ Rhode Island,40,2016
+ South Carolina,39,2016
+ South Dakota,36,2016
+ Tennessee,38,2016
+ Texas,34,2016
+ Utah,30,2016
+ Vermont,43,2016
+ Virginia,38,2016
+ Washington,37,2016
+ West Virginia,42,2016
+ Wisconsin,39,2016
+ Wyoming,37,2016
+ Alabama,39,2020
+ Alaska,35,2020
+ Arizona,39,2020
+ Arkansas,39,2020
+ California,37,2020
+ Colorado,37,2020
+ Connecticut,41,2020
+ Delaware,41,2020
+ District of Columbia,33,2020
+ Florida,43,2020
+ Georgia,37,2020
+ Hawaii,40,2020
+ Idaho,36,2020
+ Illinois,39,2020
+ Indiana,38,2020
+ Iowa,38,2020
+ Kansas,37,2020
+ Kentucky,39,2020
+ Louisiana,38,2020
+ Maine,45,2020
+ Maryland,38,2020
+ Massachusetts,40,2020
+ Michigan,40,2020
+ Minnesota,38,2020
+ Mississippi,39,2020
+ Missouri,39,2020
+ Montana,40,2020
+ Nebraska,37,2020
+ Nevada,38,2020
+ New Hampshire,43,2020
+ New Jersey,40,2020
+ New Mexico,39,2020
+ New York,39,2020
+ North Carolina,39,2020
+ North Dakota,35,2020
+ Ohio,40,2020
+ Oklahoma,37,2020
+ Oregon,40,2020
+ Pennsylvania,41,2020
+ Puerto Rico,45,2020
+ Rhode Island,40,2020
+ South Carolina,40,2020
+ South Dakota,37,2020
+ Tennessee,39,2020
+ Texas,35,2020
+ Utah,31,2020
+ Vermont,43,2020
+ Virginia,38,2020
+ Washington,38,2020
+ West Virginia,42,2020
+ Wisconsin,40,2020
+ Wyoming,38,2020
+ Alabama,39,2022
+ Alaska,35,2022
+ Arizona,39,2022
+ Arkansas,39,2022
+ California,37,2022
+ Colorado,37,2022
+ Connecticut,40,2022
+ Delaware,41,2022
+ District of Columbia,34,2022
+ Florida,43,2022
+ Georgia,37,2022
+ Hawaii,40,2022
+ Idaho,37,2022
+ Illinois,39,2022
+ Indiana,38,2022
+ Iowa,38,2022
+ Kansas,37,2022
+ Kentucky,39,2022
+ Louisiana,38,2022
+ Maine,45,2022
+ Maryland,39,2022
+ Massachusetts,40,2022
+ Michigan,40,2022
+ Minnesota,39,2022
+ Mississippi,38,2022
+ Missouri,39,2022
+ Montana,40,2022
+ Nebraska,37,2022
+ Nevada,38,2022
+ New Hampshire,43,2022
+ New Jersey,40,2022
+ New Mexico,39,2022
+ New York,40,2022
+ North Carolina,39,2022
+ North Dakota,36,2022
+ Ohio,40,2022
+ Oklahoma,37,2022
+ Oregon,40,2022
+ Pennsylvania,41,2022
+ Puerto Rico,44,2022
+ Rhode Island,40,2022
+ South Carolina,40,2022
+ South Dakota,38,2022
+ Tennessee,39,2022
+ Texas,35,2022
+ Utah,32,2022
+ Vermont,43,2022
+ Virginia,39,2022
+ Washington,38,2022
+ West Virginia,42,2022
+ Wisconsin,40,2022
+ Wyoming,39,2022
