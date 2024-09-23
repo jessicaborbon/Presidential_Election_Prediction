@@ -29,7 +29,8 @@ Insights: Overall, across all years, the majority of authors posting on social m
 
 Data Limitations: The datasets between 2016, 2020, and 2024 vary widely in the number of entries, which may have a bias effect on the data interpretations. Additionally, in 2023, the owner of Twitter (now X) changed the API access for the app, which lead to a shift away from the use of the API as a data source. This may also affect the quantity and type of available data for analysis.
 ## Logistic Regression Model
-![alt text](Sentiment_confusion_matrix.png) ![alt text](Sentiment_classification_report.png)
+![alt text](Sentiment_classification_report.png)
+![alt text](Sentiment_confusion_matrix.png)
 The classification report shows outstanding performance, with perfect precision, recall, and F1-scores of 1.00 for both classes (0 and 1). Here's what each metric indicates:
 
 Precision (1.00): Out of all the predictions the model made for each class, 100% were correct. This means there were no false positives—every instance predicted as class 0 or class 1 was correctly classified.
@@ -135,9 +136,10 @@ To use this project to predict the winning candidate locally, follow these steps
     **Machine Learing Models**:
 ### Using Logistic Regression Model to Predict the Presidential Election 
 This model is a detailed performance summary of a binary classification model, showing key metrics like precision, recall, and F1-score for each class (e.g., Democrat and Republican) along with overall metrics like accuracy, macro average, and weighted average. 
-
-fig 1.
 ![alt text](classification_report_heatmap.png)
+
+![alt text](confusion_matrix.png)
+
 Metrics: 
 
 Precision:
@@ -193,11 +195,8 @@ The weighted average reflects the class imbalance and shows that the model's ove
 ### Interpretation
 Model Bias: The model seems heavily biased towards predicting the "Republican" class. This is evident from the extremely high recall (0.99) for class 1 (Republican) and very low recall (0.04) for class 0 (Democrat). It suggests that the model almost always predicts "Republican" when unsure.
 
-fig 2.
-![alt text](confusion_matrix.png)
 
 ## Tensorflow Model
-fig 3.
 ![alt text](Presidential_Tensor_model.png)
 
 This model result and its corresponding visualizations show the training loss and accuracy over 10 epochs during the training of a neural network for binary classification. 
